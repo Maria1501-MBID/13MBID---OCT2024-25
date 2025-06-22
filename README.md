@@ -8,7 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: OCT24-25
-Estudiante: <Maria Cabalero>
+Estudiante: Maria Caballero
 
 ## Descripción del contenido
 
